@@ -1,2 +1,2 @@
 # sphero-soccer
-making a team of sphero bolts the champions of RoboCup SSL! jk.
+making a team of sphero bolts the champions of RoboCup SSL! jk... or am I?
